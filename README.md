@@ -18,3 +18,7 @@ $ git clone https://github.com/zendes/SBUS.git
 ```
 
 Then restart your Arduino IDE and take a look at the examples.
+
+## This lib works with arduino pro micro (or Leonardo or anything with Atmega32u4)
+
+Thanks for the change tip for: https://github.com/froqstar/SBUSJoystick
